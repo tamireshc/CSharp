@@ -23,14 +23,13 @@ https://github.com/tamireshc/CSharp/tree/main/trybank <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
 
- **link do projeto:**<br>
-https://github.com/tamireshc/CSharp/tree/main/trybank <br>
 
  :star:  3. **Stock options** <br>
->Projeto que desenvolveu uma pequena biblioteca que faz algumas consultas em uma fonte de dados que contém informações sobre ações <br>
->A aplicação permite buscar acóes pelos seus symbolos, tipos e intervalo de valores.<br>
->Foram utilizados nas buscas a Language Integrated Query (LINQ) 
+>Projeto que desenvolveu uma pequena biblioteca que faz algumas consultas em uma fonte de dados que contém informações sobre ações. <br>
+>A aplicação permite buscar ações por symbolos, tipos e intervalo de valores.<br>
+>Foram utilizados para as buscas a Language Integrated Query (LINQ) 
 > Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit e a lib Moq. :outbox_tray: <br>
  - As tecnologias utilizadas foram: C#, FluentAssertions e Xunit<br>
  
+ **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/linq-query <br>
