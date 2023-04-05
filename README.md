@@ -33,3 +33,16 @@ https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
  
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/linq-query <br>
+
+ :star:  4. **School queries** <br>
+>Projeto que desenvolveu consultas ao banco de dados de notas de pessoas estudantes em projetos.. <br>
+A estrutuda do banco segue a seguinte estrutuda:
+![image](https://user-images.githubusercontent.com/65035109/230211421-48b92e94-fdbc-49f7-8379-b956fc854263.png)
+
+>A aplicação permite buscar os dados no banco.<br>
+>Foram utilizados para as buscas a Language Integrated Query (LINQ) 
+> Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit e a lib Moq. :outbox_tray: <br>
+ - As tecnologias utilizadas foram: C#, FluentAssertions e Xunit<br>
+ 
+ **link do projeto:**<br>
+https://github.com/tamireshc/CSharp/tree/main/school-queries <br>
