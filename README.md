@@ -14,7 +14,18 @@ Os códigos são autorais.<br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/todo-api-jsonFlatFileData-StringContent <br>
 
- :star:  2. **Trybank** <br>
+ :star: :star: 2. **recipe-api** <br>
+>Projeto que desenvolveu uma api de receitas.  <br>
+>A aplicação utilizou uma simulação de banco de dados com uma lista de receitas criada dentro da camada services.<br>
+>É possível realizar as seguintes operações: Criar, deletar, editar e buscar receitas  <br>
+> Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit. :outbox_tray: <br>
+
+ - As tecnologias utilizadas foram: C#, ASP.NET, FluentAssertions e Xunit<br>
+ 
+ **link do projeto:**<br>
+https://github.com/tamireshc/CSharp/tree/main/recipe-api
+
+ :star:  3. **Trybank** <br>
 >Projeto que desenvolveu uma solução bancária simples.  <br>
 >A aplicação permite logar e deslogar nas contas criadas.<br>
 >É possível realizar as seguintes operações: Checar o saldo, transferência e depósito  <br>
@@ -25,7 +36,7 @@ https://github.com/tamireshc/CSharp/tree/main/todo-api-jsonFlatFileData-StringCo
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/trybank <br>
 
- :star:  3. **Calendar Events** <br>
+ :star:  4. **Calendar Events** <br>
 >Projeto que desenvolveu um sistema de calendário para organização de eventos.  <br>
 >A aplicação permite adicionar novos eventos, editar a data dos eventos, e busca-los por título e data.<br>
 > Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit. :outbox_tray: <br>
@@ -34,8 +45,7 @@ https://github.com/tamireshc/CSharp/tree/main/trybank <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
 
-
- :star:  4. **Stock options** <br>
+ :star:  5. **Stock options** <br>
 >Projeto que desenvolveu uma pequena biblioteca que faz algumas consultas em uma fonte de dados que contém informações sobre ações. <br>
 >A aplicação permite buscar ações por symbolos, tipos e intervalo de valores.<br>
 >Foram utilizados para as buscas a Language Integrated Query (LINQ) 
@@ -45,7 +55,7 @@ https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/linq-query <br>
 
- :star:  5. **School queries** <br>
+ :star:  6. **School queries** <br>
 >Projeto que desenvolveu consultas ao banco de dados de notas de pessoas estudantes em projetos.. <br>
 A estrutuda do banco segue a seguinte estrutuda:
 ![image](https://user-images.githubusercontent.com/65035109/230211421-48b92e94-fdbc-49f7-8379-b956fc854263.png)
