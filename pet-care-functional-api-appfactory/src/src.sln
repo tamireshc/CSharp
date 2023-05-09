@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pet-care", "pet-care\pet-care.csproj", "{6447B217-55FE-40D6-8C68-FFAE2B4E2E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pet-care.Test", "pet-care.Test\pet-care.Test.csproj", "{09E96249-B799-496E-A734-9403DE4D9EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pet-care.Test.Test", "pet-care.Test.Test\pet-care.Test.Test.csproj", "{253B6C76-8B0E-45EF-9FAF-6141033E4375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6447B217-55FE-40D6-8C68-FFAE2B4E2E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6447B217-55FE-40D6-8C68-FFAE2B4E2E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6447B217-55FE-40D6-8C68-FFAE2B4E2E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6447B217-55FE-40D6-8C68-FFAE2B4E2E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E96249-B799-496E-A734-9403DE4D9EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E96249-B799-496E-A734-9403DE4D9EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E96249-B799-496E-A734-9403DE4D9EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E96249-B799-496E-A734-9403DE4D9EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253B6C76-8B0E-45EF-9FAF-6141033E4375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253B6C76-8B0E-45EF-9FAF-6141033E4375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253B6C76-8B0E-45EF-9FAF-6141033E4375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253B6C76-8B0E-45EF-9FAF-6141033E4375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
