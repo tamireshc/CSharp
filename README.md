@@ -9,7 +9,7 @@ Os códigos são autorais.<br>
 > Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit. :outbox_tray: <br>
 
  - As tecnologias utilizadas foram: C#, ASP.NET, JWT, FluentAssertions e Xunit<br>
- - 
+ 
   **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/my-wine-jwt-token-claims <br>
 
