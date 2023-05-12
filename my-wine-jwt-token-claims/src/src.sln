@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-wine", "my-wine\my-wine.csproj", "{0F94BAFA-CCC5-45F8-8D29-5B6836459FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-wine.Test", "my-wine.Test\my-wine.Test.csproj", "{57E0C49C-2C4E-41CC-B4AD-C9BC42CAFF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my-wine.Test.Test", "my-wine.Test.Test\my-wine.Test.Test.csproj", "{5ECD305B-D9E4-4B14-8C14-014F7B7693D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F94BAFA-CCC5-45F8-8D29-5B6836459FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F94BAFA-CCC5-45F8-8D29-5B6836459FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F94BAFA-CCC5-45F8-8D29-5B6836459FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F94BAFA-CCC5-45F8-8D29-5B6836459FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E0C49C-2C4E-41CC-B4AD-C9BC42CAFF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E0C49C-2C4E-41CC-B4AD-C9BC42CAFF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E0C49C-2C4E-41CC-B4AD-C9BC42CAFF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E0C49C-2C4E-41CC-B4AD-C9BC42CAFF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECD305B-D9E4-4B14-8C14-014F7B7693D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECD305B-D9E4-4B14-8C14-014F7B7693D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECD305B-D9E4-4B14-8C14-014F7B7693D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECD305B-D9E4-4B14-8C14-014F7B7693D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
