@@ -13,7 +13,22 @@ Os códigos são autorais.<br>
   **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/my-wine-jwt-token-claims <br>
 
- :star: :star: 2. **todo-api** <br>
+ :star: :star: 2. **Blog-api** <br>
+>Projeto que desenvolveu uma api para blogs.  <br>
+>A aplicação utilizou o banco sqlServer para armazenar os dados.<br>
+>É possível realizar as seguintes operações: Criar, deletar, editar e buscar posts  <br>
+> Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit. :outbox_tray: <br>
+
+ - As tecnologias utilizadas foram: C#, ASP.NET, sqlServer, FluentAssertions e Xunit<br>
+ 
+ UML das tabelas:
+ 
+ <img width="808" alt="Captura de Tela 2023-05-18 às 18 55 35" src="https://github.com/tamireshc/CSharp/assets/65035109/b6a2d22e-e51f-4767-a815-7047592fdcdb">
+
+ **link do projeto:**<br>
+https://github.com/tamireshc/CSharp/tree/main/blog-api-functional%20api <br>
+
+ :star: :star: 3. **todo-api** <br>
 >Projeto que desenvolveu um aplicativo de todo.  <br>
 >A aplicação utilizou uma simulação de banco de dados com o JsonFlatFileDataStore.<br>
 >É possível realizar as seguintes operações: Criar, deletar, editar e buscar tarefas  <br>
@@ -24,7 +39,7 @@ https://github.com/tamireshc/CSharp/tree/main/my-wine-jwt-token-claims <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/todo-api-jsonFlatFileData-StringContent <br>
 
- :star: :star: 3. **recipe-api** <br>
+ :star: :star: 4. **recipe-api** <br>
 >Projeto que desenvolveu uma api de receitas.  <br>
 >A aplicação utilizou uma simulação de banco de dados com uma lista de receitas criada dentro da camada services.<br>
 >É possível realizar as seguintes operações: Criar, deletar, editar e buscar receitas  <br>
@@ -35,7 +50,7 @@ https://github.com/tamireshc/CSharp/tree/main/todo-api-jsonFlatFileData-StringCo
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/recipe-api
 
- :star:  4. **Trybank** <br>
+ :star:  5. **Trybank** <br>
 >Projeto que desenvolveu uma solução bancária simples.  <br>
 >A aplicação permite logar e deslogar nas contas criadas.<br>
 >É possível realizar as seguintes operações: Checar o saldo, transferência e depósito  <br>
@@ -46,7 +61,7 @@ https://github.com/tamireshc/CSharp/tree/main/recipe-api
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/trybank <br>
 
- :star:  5. **Calendar Events** <br>
+ :star:  6. **Calendar Events** <br>
 >Projeto que desenvolveu um sistema de calendário para organização de eventos.  <br>
 >A aplicação permite adicionar novos eventos, editar a data dos eventos, e busca-los por título e data.<br>
 > Todas as funções criadas foram testadas utilizando FluentAssertions e Xunit. :outbox_tray: <br>
@@ -55,7 +70,7 @@ https://github.com/tamireshc/CSharp/tree/main/trybank <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
 
- :star:  6. **Stock options** <br>
+ :star:  7. **Stock options** <br>
 >Projeto que desenvolveu uma pequena biblioteca que faz algumas consultas em uma fonte de dados que contém informações sobre ações. <br>
 >A aplicação permite buscar ações por symbolos, tipos e intervalo de valores.<br>
 >Foram utilizados para as buscas a Language Integrated Query (LINQ) 
@@ -65,7 +80,7 @@ https://github.com/tamireshc/CSharp/tree/main/calendar-events <br>
  **link do projeto:**<br>
 https://github.com/tamireshc/CSharp/tree/main/linq-query <br>
 
- :star:  7. **School queries** <br>
+ :star:  8. **School queries** <br>
 >Projeto que desenvolveu consultas ao banco de dados de notas de pessoas estudantes em projetos.. <br>
 A estrutuda do banco segue a seguinte estrutuda:
 ![image](https://user-images.githubusercontent.com/65035109/230211421-48b92e94-fdbc-49f7-8379-b956fc854263.png)
