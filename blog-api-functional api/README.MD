@@ -1,4 +1,4 @@
- :star: :star: 2. **Blog-api** <br>
+ **Blog-api** <br>
 >Projeto que desenvolveu uma api para blogs.  <br>
 >A aplicação utilizou o banco sqlServer para armazenar os dados.<br>
 >É possível realizar as seguintes operações: Criar, deletar, editar e buscar posts  <br>
